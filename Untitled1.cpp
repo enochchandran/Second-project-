@@ -2,6 +2,6 @@
 int main()
 {
  printf("king");
- printf("akup");
+ printf("ajnal");
  return 0;
 }
